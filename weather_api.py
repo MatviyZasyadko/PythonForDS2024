@@ -4,7 +4,7 @@ import json
 import requests
 from flask import Flask, jsonify, request
 
-RSA_KEY = "MJFV6TGHP3JSNBL94GAMGT6AL"
+RSA_KEY = ""
 
 API_TOKEN = "hw1_1token*@"
 
